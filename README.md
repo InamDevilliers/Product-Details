@@ -24,9 +24,9 @@ Use the terminal or command prompt to navigate into the project directory:
 The backend is located in the root of the trika-challenge directory. You need to install all necessary dependencies:
  npm install
 This will install the following packages:
-  1. express: Web framework for building the API server.
-  2. axios: Used to fetch data from the external API.
-  3. cors: Middleware to enable cross-origin resource sharing between frontend and backend.
+* express: Web framework for building the API server.
+* axios: Used to fetch data from the external API.
+* cors: Middleware to enable cross-origin resource sharing between frontend and backend.
 
 2. Running the Node.js Backend:
  To start the Node.js backend server, navigate to Backend folder and use the following command:
