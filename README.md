@@ -20,17 +20,17 @@ Use the terminal or command prompt to navigate into the project directory:
   cd trika-challenge
 
 # Backend (Node.js) Setup
-1. Install Dependencies for the Backend: 
-The backend is located in the root of the trika-challenge directory. You need to install all necessary dependencies:
- npm install
-This will install the following packages:
+1. Install Dependencies for the Backend: <br>
+The backend is located in the root of the trika-challenge directory. You need to install all necessary dependencies:<br>
+ npm install<br>
+This will install the following packages:<br>
 * express: Web framework for building the API server.
 * axios: Used to fetch data from the external API.
 * cors: Middleware to enable cross-origin resource sharing between frontend and backend.
 
-2. Running the Node.js Backend:
-   To start the Node.js backend server, navigate to Backend folder and use the followin command:
-      node server.js
+2. Running the Node.js Backend:<br>
+   To start the Node.js backend server, navigate to Backend folder and use the followin command:<br>
+      node server.js<br>
    The backend will now be running on http://localhost:3001 and will serve product data when the /products endpoint is accessed.
 
 # Frontend (React) Setup
