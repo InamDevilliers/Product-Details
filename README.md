@@ -1,7 +1,7 @@
 # Product-Details
 
 # Overview
-This project is a full-stack application that allows users to view, search, select, and delete products. It consists of a Node.js backend (Express) to fetch product data from an external API and a React frontend that displays this data with features like search (with custom debouncing), pagination, row selection, and deletion (in memory).
+This project allows users to view, search, select, and delete products. It consists of a Node.js backend to fetch product data from an external API and a React frontend that displays this data with features like search (with custom debouncing), pagination, row selection, and deletion (in memory).
 
 # System Requirements
 Ensure the following tools are installed on your machine:
