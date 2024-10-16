@@ -16,7 +16,7 @@ First, clone the project repository (or download the files):<br>
 Alternatively, you can download the project ZIP file and extract it.
 
 2. Navigate into the Project Directory
-Use the terminal or command prompt to navigate into the project directory:
+Use the terminal or command prompt to navigate into the project directory:<br>
   cd trika-challenge
 
 # Backend (Node.js) Setup
