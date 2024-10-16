@@ -9,10 +9,10 @@ Ensure the following tools are installed on your machine:
  	  Download Node.js
 2. 	npm (comes bundled with Node.js)
 
-# Project Setup
-1. Clone the Repository
-First, clone the project repository (or download the files):
-  git clone https://github.com/your-repository-link.git
+# Project Setup<br>
+1. Clone the Repository<br>
+First, clone the project repository (or download the files):<br>
+  git clone https://github.com/your-repository-link.git<br>
 Alternatively, you can download the project ZIP file and extract it.
 
 2. Navigate into the Project Directory
