@@ -34,25 +34,25 @@ This will install the following packages:<br>
    The backend will now be running on http://localhost:3001 and will serve product data when the /products endpoint is accessed.
 
 # Frontend (React) Setup
-1. Navigate to the Frontend Directory
-Change into the React frontend folder if you haven't already:
-cd Frontend\trika-frontend
+1. Navigate to the Frontend Directory<br>
+Change into the React frontend folder:<br>
+cd Frontend\trika-frontend<br>
 
-3. Install Dependencies for the Frontend
-Install the necessary packages for the React app by running:
-  npm install
-This will install:
+3. Install Dependencies for the Frontend<br>
+Install the necessary packages for the React app by running:<br>
+  npm install<br>
+This will install:<br>
   axios: For making HTTP requests to the Node.js server to fetch product data.
 
-4. Running the React Frontend
-Start the frontend development server with:
-  npm start
-The React app will now run on http://localhost:3000. You can access the app through your browser.
+4. Running the React Frontend<br>
+Start the frontend development server with:<br>
+  npm start<br>
+The React app will now run on http://localhost:3000. You can access the app through your browser.<br>
 
 # Running the Full Application
-Once both the backend and frontend servers are running:
-Backend will be running at http://localhost:3001/products (Node.js).
-Frontend will be accessible via http://localhost:3000 (React).
+Once both the backend and frontend servers are running:<br>
+* Backend will be running at http://localhost:3001/products (Node.js).
+* Frontend will be accessible via http://localhost:3000 (React).
  
 # Key Features
 1. Search with Debouncing: Users can search products, and the filtering only happens when they stop typing for 300ms to optimize performance.
