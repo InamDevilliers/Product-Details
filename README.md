@@ -55,9 +55,9 @@ Backend will be running at http://localhost:3001/products (Node.js).
 Frontend will be accessible via http://localhost:3000 (React).
  
 # Key Features
-Search with Debouncing: Users can search products, and the filtering only happens when they stop typing for 300ms to optimize performance.
-Pagination: The app displays 10 products per page. Navigation buttons are available to switch between pages.
-Row Selection: Users can select individual rows or use a "Select All" option for the visible rows.
-In-Memory Deletion: Users can delete rows, and the data is only removed locally without affecting the backend.
+1. Search with Debouncing: Users can search products, and the filtering only happens when they stop typing for 300ms to optimize performance.
+2. Pagination: The app displays 10 products per page. Navigation buttons are available to switch between pages.
+3. Row Selection: Users can select individual rows or use a "Select All" option for the visible rows.
+4. In-Memory Deletion: Users can delete rows, and the data is only removed locally without affecting the backend.
  
 
