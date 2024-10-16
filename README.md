@@ -12,7 +12,7 @@ Ensure the following tools are installed on your machine:
 # Project Setup<br>
 1. Clone the Repository<br>
 First, clone the project repository (or download the files):<br>
-  git clone https://github.com/your-repository-link.git<br>
+  git clone https://github.com/InamDevilliers/Product-Details<br>
 Alternatively, you can download the project ZIP file and extract it.
 
 2. Navigate into the Project Directory
