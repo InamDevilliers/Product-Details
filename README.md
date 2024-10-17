@@ -29,7 +29,7 @@ This will install the following packages:<br>
 * cors: Middleware to enable cross-origin resource sharing between frontend and backend.
 
 2. Running the Node.js Backend:<br>
-   To start the Node.js backend server, navigate to Backend folder and use the followin command:<br>
+   To start the Node.js backend server, navigate to Backend folder and use the following command:<br>
       node server.js<br>
    The backend will now be running on http://localhost:3001 and will serve product data when the /products endpoint is accessed.
 
