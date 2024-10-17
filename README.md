@@ -60,4 +60,5 @@ Once both the backend and frontend servers are running:<br>
 3. Row Selection: Users can select individual rows or use a "Select All" option for the visible rows.
 4. In-Memory Deletion: Users can delete rows, and the data is only removed locally without affecting the backend.
  
+![image](https://github.com/user-attachments/assets/a4d6ae28-1192-4fc4-b186-54ce1cde18d6)
 
