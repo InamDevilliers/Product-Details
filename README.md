@@ -36,7 +36,7 @@ This will install the following packages:<br>
 # Frontend (React) Setup
 1. Navigate to the Frontend Directory<br>
 Change into the React frontend folder:<br>
-cd Frontend\trika-frontend<br>
+cd Frontend\product-details<br>
 
 3. Install Dependencies for the Frontend<br>
 Install the necessary packages for the React app by running:<br>
